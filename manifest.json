@@ -1,0 +1,298 @@
+[
+    {
+        "kind":  "home",
+        "title":  "Home",
+        "url":  "http://reacongroup.test/",
+        "file":  "index.html",
+        "status":  200,
+        "bytes":  183108
+    },
+    {
+        "kind":  "page",
+        "title":  "About",
+        "url":  "http://reacongroup.test/about-us/",
+        "file":  "about-us/index.html",
+        "status":  200,
+        "bytes":  156484
+    },
+    {
+        "kind":  "page",
+        "title":  "Blogs",
+        "url":  "http://reacongroup.test/blogs/",
+        "file":  "blogs/index.html",
+        "status":  200,
+        "bytes":  119554
+    },
+    {
+        "kind":  "page",
+        "title":  "Contact Us",
+        "url":  "http://reacongroup.test/contact-us/",
+        "file":  "contact-us/index.html",
+        "status":  200,
+        "bytes":  126843
+    },
+    {
+        "kind":  "page",
+        "title":  "Cookie Policy",
+        "url":  "http://reacongroup.test/cookie-policy/",
+        "file":  "cookie-policy/index.html",
+        "status":  200,
+        "bytes":  121454
+    },
+    {
+        "kind":  "page",
+        "title":  "Our Works",
+        "url":  "http://reacongroup.test/our-works/",
+        "file":  "our-works/index.html",
+        "status":  200,
+        "bytes":  117331
+    },
+    {
+        "kind":  "page",
+        "title":  "Privacy Policy",
+        "url":  "http://reacongroup.test/privacy-policy/",
+        "file":  "privacy-policy/index.html",
+        "status":  200,
+        "bytes":  122453
+    },
+    {
+        "kind":  "page",
+        "title":  "Start an Order",
+        "url":  "http://reacongroup.test/start-an-order/",
+        "file":  "start-an-order/index.html",
+        "status":  200,
+        "bytes":  110524
+    },
+    {
+        "kind":  "page",
+        "title":  "Sustainability Statement",
+        "url":  "http://reacongroup.test/sustainability-statement/",
+        "file":  "sustainability-statement/index.html",
+        "status":  200,
+        "bytes":  139236
+    },
+    {
+        "kind":  "page",
+        "title":  "Terms of Use",
+        "url":  "http://reacongroup.test/terms-of-use/",
+        "file":  "terms-of-use/index.html",
+        "status":  200,
+        "bytes":  127907
+    },
+    {
+        "kind":  "page",
+        "title":  "Thank You",
+        "url":  "http://reacongroup.test/thank-you/",
+        "file":  "thank-you/index.html",
+        "status":  200,
+        "bytes":  95001
+    },
+    {
+        "kind":  "archive-industry",
+        "title":  "Industries",
+        "url":  "http://reacongroup.test/industry/",
+        "file":  "industry/index.html",
+        "status":  200,
+        "bytes":  139038
+    },
+    {
+        "kind":  "single-post",
+        "title":  "Why Integrated Production Saves Time, Cost, and Operational Complexity",
+        "url":  "http://reacongroup.test/why-integrated-production-saves-time-cost-and-operational-complexity/",
+        "file":  "why-integrated-production-saves-time-cost-and-operational-complexity/index.html",
+        "status":  200,
+        "bytes":  117573
+    },
+    {
+        "kind":  "single-post",
+        "title":  "Why Integrated Production Saves Time, Cost, and Operational Complexity",
+        "url":  "http://reacongroup.test/why-integrated-production-saves-time-cost-and-operational-complexity-2/",
+        "file":  "why-integrated-production-saves-time-cost-and-operational-complexity-2/index.html",
+        "status":  200,
+        "bytes":  117575
+    },
+    {
+        "kind":  "single-post",
+        "title":  "Why Integrated Production Saves Time, Cost, and Operational Complexity Copy",
+        "url":  "http://reacongroup.test/why-integrated-production-saves-time-cost-and-operational-complexity-copy/",
+        "file":  "why-integrated-production-saves-time-cost-and-operational-complexity-copy/index.html",
+        "status":  200,
+        "bytes":  117602
+    },
+    {
+        "kind":  "single-post",
+        "title":  "Why Integrated Production Saves Time, Cost, and Operational Complexity Copy",
+        "url":  "http://reacongroup.test/why-integrated-production-saves-time-cost-and-operational-complexity-copy-2/",
+        "file":  "why-integrated-production-saves-time-cost-and-operational-complexity-copy-2/index.html",
+        "status":  200,
+        "bytes":  117610
+    },
+    {
+        "kind":  "single-post",
+        "title":  "Why Integrated Production Saves Time, Cost, and Operational Complexity Copy",
+        "url":  "http://reacongroup.test/why-integrated-production-saves-time-cost-and-operational-complexity-copy-3/",
+        "file":  "why-integrated-production-saves-time-cost-and-operational-complexity-copy-3/index.html",
+        "status":  200,
+        "bytes":  117610
+    },
+    {
+        "kind":  "single-post",
+        "title":  "Why Integrated Production Saves Time, Cost, and Operational Complexity Copy",
+        "url":  "http://reacongroup.test/why-integrated-production-saves-time-cost-and-operational-complexity-copy-4/",
+        "file":  "why-integrated-production-saves-time-cost-and-operational-complexity-copy-4/index.html",
+        "status":  200,
+        "bytes":  117610
+    },
+    {
+        "kind":  "single-post",
+        "title":  "Why Integrated Production Saves Time, Cost, and Operational Complexity Copy Copy",
+        "url":  "http://reacongroup.test/why-integrated-production-saves-time-cost-and-operational-complexity-copy-2-copy/",
+        "file":  "why-integrated-production-saves-time-cost-and-operational-complexity-copy-2-copy/index.html",
+        "status":  200,
+        "bytes":  117620
+    },
+    {
+        "kind":  "single-post",
+        "title":  "Why Integrated Production Saves Time, Cost, and Operational Complexity Copy Copy",
+        "url":  "http://reacongroup.test/why-integrated-production-saves-time-cost-and-operational-complexity-copy-copy/",
+        "file":  "why-integrated-production-saves-time-cost-and-operational-complexity-copy-copy/index.html",
+        "status":  200,
+        "bytes":  117616
+    },
+    {
+        "kind":  "single-industry",
+        "title":  "Banking \u0026 Finance",
+        "url":  "http://reacongroup.test/industry/banking-finance/",
+        "file":  "industry/banking-finance/index.html",
+        "status":  200,
+        "bytes":  142628
+    },
+    {
+        "kind":  "single-industry",
+        "title":  "Charities \u0026 Not-For-Profits",
+        "url":  "http://reacongroup.test/industry/charities-not-for-profits/",
+        "file":  "industry/charities-not-for-profits/index.html",
+        "status":  200,
+        "bytes":  151404
+    },
+    {
+        "kind":  "single-industry",
+        "title":  "E-Commerce",
+        "url":  "http://reacongroup.test/industry/e-commerce/",
+        "file":  "industry/e-commerce/index.html",
+        "status":  200,
+        "bytes":  143105
+    },
+    {
+        "kind":  "single-industry",
+        "title":  "Government",
+        "url":  "http://reacongroup.test/industry/government/",
+        "file":  "industry/government/index.html",
+        "status":  200,
+        "bytes":  135607
+    },
+    {
+        "kind":  "single-industry",
+        "title":  "Hospitality",
+        "url":  "http://reacongroup.test/industry/hospitality/",
+        "file":  "industry/hospitality/index.html",
+        "status":  200,
+        "bytes":  177950
+    },
+    {
+        "kind":  "single-industry",
+        "title":  "Pharmaceuticals",
+        "url":  "http://reacongroup.test/industry/pharmaceuticals/",
+        "file":  "industry/pharmaceuticals/index.html",
+        "status":  200,
+        "bytes":  141423
+    },
+    {
+        "kind":  "single-solution",
+        "title":  "Content – Studio – Main",
+        "url":  "http://reacongroup.test/solution/content-studio/",
+        "file":  "solution/content-studio/index.html",
+        "status":  200,
+        "bytes":  129397
+    },
+    {
+        "kind":  "single-solution",
+        "title":  "Content Studio – Digital",
+        "url":  "http://reacongroup.test/solution/content-studio-digital/",
+        "file":  "solution/content-studio-digital/index.html",
+        "status":  200,
+        "bytes":  136422
+    },
+    {
+        "kind":  "single-solution",
+        "title":  "Content Studio Structure (3D)",
+        "url":  "http://reacongroup.test/solution/content-studio-structure-3d-2/",
+        "file":  "solution/content-studio-structure-3d-2/index.html",
+        "status":  200,
+        "bytes":  142890
+    },
+    {
+        "kind":  "single-solution",
+        "title":  "Content Studio Video",
+        "url":  "http://reacongroup.test/solution/content-studio-video/",
+        "file":  "solution/content-studio-video/index.html",
+        "status":  200,
+        "bytes":  142602
+    },
+    {
+        "kind":  "single-solution",
+        "title":  "Content Studio Visual",
+        "url":  "http://reacongroup.test/solution/content-studio-visual/",
+        "file":  "solution/content-studio-visual/index.html",
+        "status":  200,
+        "bytes":  135252
+    },
+    {
+        "kind":  "single-solution",
+        "title":  "Production Fulfillment – Activations",
+        "url":  "http://reacongroup.test/solution/production-fulfillment-activations/",
+        "file":  "solution/production-fulfillment-activations/index.html",
+        "status":  200,
+        "bytes":  137674
+    },
+    {
+        "kind":  "single-solution",
+        "title":  "Production Fulfillment – Distribution",
+        "url":  "http://reacongroup.test/solution/production-fulfillment-distribution/",
+        "file":  "solution/production-fulfillment-distribution/index.html",
+        "status":  200,
+        "bytes":  131187
+    },
+    {
+        "kind":  "single-solution",
+        "title":  "Production Fulfillment – Print",
+        "url":  "http://reacongroup.test/solution/production-fulfillment-print/",
+        "file":  "solution/production-fulfillment-print/index.html",
+        "status":  200,
+        "bytes":  134894
+    },
+    {
+        "kind":  "single-solution",
+        "title":  "Production Fulfillment – Promotional",
+        "url":  "http://reacongroup.test/solution/production-fulfillment-promotional/",
+        "file":  "solution/production-fulfillment-promotional/index.html",
+        "status":  200,
+        "bytes":  138708
+    },
+    {
+        "kind":  "single-solution",
+        "title":  "Solutions – Print Fulfillment – Main",
+        "url":  "http://reacongroup.test/solution/print-fulfillment/",
+        "file":  "solution/print-fulfillment/index.html",
+        "status":  200,
+        "bytes":  128859
+    },
+    {
+        "kind":  "pagination",
+        "title":  "Blogs Page 2",
+        "url":  "http://reacongroup.test/blogs/page/2/",
+        "file":  "blogs/page/2/index.html",
+        "status":  200,
+        "bytes":  110310
+    }
+]
